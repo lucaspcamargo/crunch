@@ -1,3 +1,7 @@
+This is a fork of crunch with Linux compilation fixes applied, and a CMakeLists file.
+
+ORIGINAL README:
+------------------------------------------------------------------
 crunch/crnlib v1.04 - Advanced DXTn texture compression library
 Copyright (C) 2010-2017 Richard Geldreich, Jr., Tenacious Software, and Binomial LLC http://binomial.info 
 
